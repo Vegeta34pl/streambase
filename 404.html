@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="utf-8" />
+    <title>StreamBase - Twoje źródło rozrywki!</title>
+    <link rel="stylesheet" href=css/style.css?ver3.2>
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Open+Sans:600|Zilla+Slab:300,400,600&amp;subset=latin-ext" />
+    <meta name="keywords"
+        content="strony z filmami, strony z filmami online, filmy online, seriale online, Telewizja Online, online, filmy za darmo, seriale za darmo, film online, serial online, ranking seriali, najlepsze seriale, ranking filmów, Popularne filmy" />
+    <meta name="description"
+        content="Najaktualniejsza baza z darmowymi stronami do oglądania filmów i seriali online, i nie tylko!" />
+    <meta property="og:site_name" content="StreamBase - Twoje źródło rozrywki" />
+    <meta property="og:url" content="https://www.thesb.eu/" />
+    <meta property="og:title" content="StreamBase - Twoje źródło rozrywki" />
+    <meta property="og:description"
+        content="Najaktualniejsza baza z darmowymi stronami do oglądania filmów i seriali online, i nie tylko!" />
+    <meta property="og:type" content="website" />
+    <link rel="icon" href="img/fav.png" type="image/x-icon" />
+    <link rel="shortcut icon" href="img/fav.png" type="image/x-icon" />
+
+</head>
+
+<body>
+    <main>
+        <div class="logo">
+            <div class="logo__logotype">
+                <a href="/"><img src="img/logoweb.png?ver=2.1" height="300px"
+                        style="margin-bottom: 10px;" /></a>
+                <div></div>
+            </div>
+            <div class="logo__slogan">
+                Hej <i>nieznajomy</i>. Twoje IP: <b><span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;" class="ip"></span></b>
+
+            </div>
+        </div>
+        <!-- <div class="actions">
+            <a href="https://titanembeds.com/embed/795665744154329108?css=235&lang=pl_PL&defaultchannel=829741478476644432&theme=DiscordDark&scrollbartheme=minimal"
+                class="actions__link" target="_blank">
+                <button class="actions__button">Chat</button>
+            </a>
+            <a href="wyszukiwarka.html" class="actions__link" target="_blank">
+                <button class="actions__button">Wyszukiwarka <i>*filmów i seriali*</i></button>
+            </a>
+            <a href="https://discord.gg/ZmUTrX6axg" target="_blank" class="actions__link actions__link--full-width">
+                <button class="actions__button">Dołącz na nasz serwer Discord</button> </a>
+        </div>
+         <br><br><br>
+            <center><div>
+            <a href="https://filebit.pl//rejestracja,57957" style="text-decoration: underline;" target="_blank">FileBit.pl (10% zniżki z tego linku)</a> - Pobieraj z hostingów premium przez FileBit bez limitów! Linki znajdziesz na <a href="https://darkw.pl"  style="text-decoration: underline;" target="_blank">DarkW.pl</a>
+            </div></center> -->
+    </main>
+    <script>
+        const ip = document.querySelector(".ip");
+
+        fetch("https://api.ipify.org/?format=json")
+            .then((res) => res.json())
+            .then((res) => (ip.innerText = res.ip));
+
+    </script>
+</body>
+
+</html>
