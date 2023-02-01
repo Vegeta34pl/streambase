@@ -1,5 +1,5 @@
 # StreamBase Team - infoanarchiści
-
+## Discord StreamBase - https://discord.gg/ZmUTrX6axg 
 Projekt istnieje od 2020 roku.
 
 ##### Jedyny aktualny link z bazą: https://rentry.co/streambase
