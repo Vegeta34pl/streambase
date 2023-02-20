@@ -1,6 +1,8 @@
-# Infoanarchiści
+# Infoanarchizm
 ## Discord - https://discord.gg/ZmUTrX6axg 
 Projekt istnieje od 2020 roku, funkcjonował pierwotnie na domenach BazaFlippera.ml, StreamBase.pl oraz aktualnie pod adresem TheSB.eu.
 
 ##### Aktualny link z bazą: https://rentry.org/streambase (zapasowa domena: https://rentry.co/streambase)
 ##### Kopia zapasowa bazy dostępna na: https://web.archive.org/
+
+*W zakładce **Issues** przeznaczonej do zgłoszeń od marca 2023 r. przestajemy odpowiadać - wdrażamy albo nie, wszelkie ewentualne komentarze zostaną udzielone na naszym serwerze Discord.* 
