@@ -2,5 +2,5 @@
 ## Discord - https://discord.gg/ZmUTrX6axg 
 *Projekt istnieje od 2020 roku.*
 
-##### Aktualny link z bazą: https://rentry.org/streambase (zapasowa domena: https://rentry.co/streambase)
+##### Aktualny link z bazą: https://rentry.org/streambase (backup link: https://rentry.co/streambase)
 ##### Kopia zapasowa bazy dostępna na: https://web.archive.org/
