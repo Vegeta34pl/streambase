@@ -139,4 +139,4 @@ Problem tkwi w złym przepisie. Nielegalne pliki mają być usuwane na żądanie
 a gdy są zmuszeni je usunąć, to po prostu przenoszą je do innych katalogów na dyskach i/lub zmieniają ich nazwy. I tak to działa — piraci górą
 w majestacie prawa.
 
-CREDITS: aHR0cDovL3BpcmFjaXRvcGxpc3RhLnVndS5wbA==
+CREDITS: UGlyYWNpVG9wTGlzdGE=
