@@ -4,5 +4,5 @@
 ## DISCORD - https://discord.gg/ZmUTrX6axg 
 ## KOPIA ZAPASOWA BAZY DOSTĘPNA NA: https://web.archive.org/
 *Jak znaleźć kopię?*
-1. wklej link: `https://rentry.org/streambase`.
+1. wklej link: `https://rentry.org/streambase`
 2. wybierz najnowszą możliwą datę.
