@@ -1,6 +1,8 @@
-# Infoanarchizm
-## Discord - https://discord.gg/ZmUTrX6axg 
+# StreamBase - Infoanarchiści.
 *Projekt istnieje od 2020 roku.*
-
-##### Aktualny link z bazą: https://rentry.org/streambase (druga domena: https://rentry.co/streambase)
-##### Kopia zapasowa bazy dostępna na: https://web.archive.org/
+## BAZA STRON: https://rentry.org/streambase / https://rentry.co/streambase
+## DISCORD - https://discord.gg/ZmUTrX6axg 
+## KOPIA ZAPASOWA BAZY DOSTĘPNA NA: https://web.archive.org/
+*Jak znaleźć kopię?*
+1. wklej link: `https://rentry.org/streambase`
+2. wybierz najnowszą możliwą datę.
