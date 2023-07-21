@@ -1,3 +1,5 @@
+## JEST TO KOPIA OFICJALNEGO OŚWIADCZENIA WŁAŚCICIELA NIŻEJ WYMIENIONY STRON.
+
 ## Oświadczenie administratora stron z dnia 19 lipca 2023 roku
 
 > Komunikat ten widoczny jest dla użytkowników serwisów:
