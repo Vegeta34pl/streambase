@@ -1,4 +1,4 @@
-# StreamBase - Infoanarchiści.
+# StreamBase - Infoanarchizm.
 *Projekt istnieje od 2020 roku.*
 ## BAZA STRON: https://rentry.co/streambase / https://rentry.org/streambase
 ## KOPIA ZAPASOWA BAZY DOSTĘPNA NA: https://web.archive.org/
