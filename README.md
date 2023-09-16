@@ -1,4 +1,4 @@
-# POLAND AND ENGLISH SUPPORT 🇺🇸🇵🇱
+# POLAND 🇵🇱 AND ENGLISH 🇺🇸 SUPPORT 
 # StreamBase - Twoje źródło rozrywki!
 *Projekt istnieje od 2020 roku.*
 ## BAZA STRON: https://rentry.co/streambase / https://rentry.org/streambase
